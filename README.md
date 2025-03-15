@@ -26,7 +26,7 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
     Join the gate terminals of both transistors to form the input node.
     Connect input voltage sources Vdc and Vpulse
 ### 3. Simulation:
-    Check the Design for Errors and proceed for Simulation
+    Check the Design for Errors and proceed for Simulation 
     Launch the Analog Design Environment (ADE).
     Configure transient analysis for time-domain response.
     Set the simulation parameters such as voltage sweep range and step size.
